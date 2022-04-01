@@ -1,0 +1,53 @@
+Added Component: Designator=U2(DIP794W45P254L1969H508Q16)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LS247N/Texas%20Instruments/view-part/230215/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-28943-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74LS247N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-16 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SN74LS247N/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LS247N/Texas%20Instruments/view-part/230215/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(DIP794W45P254L1969H508Q16)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LS247N/Texas%20Instruments/view-part/230215/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-28943-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74LS247N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-16 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SN74LS247N/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LS247N/Texas%20Instruments/view-part/230215/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR30_2 Pin=U2-1
+Added Pin To Net: NetName=NetR31_2 Pin=U2-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-3
+Added Pin To Net: NetName=NetC1_2 Pin=U2-4
+Added Pin To Net: NetName=NetC1_2 Pin=U2-5
+Added Pin To Net: NetName=NetR32_2 Pin=U2-6
+Added Pin To Net: NetName=NetR29_2 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetR19_1 Pin=U2-9
+Added Pin To Net: NetName=NetR18_1 Pin=U2-10
+Added Pin To Net: NetName=NetR17_1 Pin=U2-11
+Added Pin To Net: NetName=NetR16_1 Pin=U2-12
+Added Pin To Net: NetName=NetR15_1 Pin=U2-13
+Added Pin To Net: NetName=NetR21_1 Pin=U2-14
+Added Pin To Net: NetName=NetR20_1 Pin=U2-15
+Added Pin To Net: NetName=NetC1_2 Pin=U2-16
+Added Pin To Net: NetName=NetR34_2 Pin=U3-1
+Added Pin To Net: NetName=NetR35_2 Pin=U3-2
+Added Pin To Net: NetName=NetC1_2 Pin=U3-3
+Added Pin To Net: NetName=NetC1_2 Pin=U3-4
+Added Pin To Net: NetName=NetC1_2 Pin=U3-5
+Added Pin To Net: NetName=NetR36_2 Pin=U3-6
+Added Pin To Net: NetName=NetR33_2 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=NetR26_1 Pin=U3-9
+Added Pin To Net: NetName=NetR25_1 Pin=U3-10
+Added Pin To Net: NetName=NetR24_1 Pin=U3-11
+Added Pin To Net: NetName=NetR23_1 Pin=U3-12
+Added Pin To Net: NetName=NetR22_1 Pin=U3-13
+Added Pin To Net: NetName=NetR28_1 Pin=U3-14
+Added Pin To Net: NetName=NetR27_1 Pin=U3-15
+Added Pin To Net: NetName=NetC1_2 Pin=U3-16
+Added Member To Class: ClassName=Drum_it Member=Component U2 SN74LS247N
+Added Member To Class: ClassName=Drum_it Member=Component U3 SN74LS247N
+Added Room: Name=Drum_it
